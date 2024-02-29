@@ -1,0 +1,15 @@
+{
+  "AnatomicalReference": "sub-IHNESY_run-1_fmapid-auto00000_desc-magnitude_fieldmap.nii.gz",
+  "AssociatedCoefficients": [
+    "sub-IHNESY_run-1_fmapid-auto00000_desc-coeff0_fieldmap.nii.gz",
+    "sub-IHNESY_run-1_fmapid-auto00000_desc-coeff1_fieldmap.nii.gz"
+  ],
+  "B0FieldIdentifier": "auto_00000",
+  "IntendedFor": [
+    "func/sub-IHNESY_task-DG_run-1_bold.nii.gz"
+  ],
+  "RawSources": [
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds004128-fmriprep/sourcedata/raw/sub-IHNESY/func/sub-IHNESY_task-DG_run-1_bold.nii.gz"
+  ],
+  "Units": "Hz"
+}
